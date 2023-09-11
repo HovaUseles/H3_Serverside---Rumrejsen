@@ -38,11 +38,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-//app.UseMiddleware<ApiKeyMiddleware>();
-
+// If in development seed database
 if (app.Environment.IsDevelopment())
 {
-    // If in development seed database
     using (var scope = app.Services.CreateScope())
     {
         Seeder seeder = new Seeder();

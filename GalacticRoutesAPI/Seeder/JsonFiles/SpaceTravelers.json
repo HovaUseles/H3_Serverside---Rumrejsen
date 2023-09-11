@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alice Johnson",
+    "isCadet": true
+  },
+  {
+    "name": "Bob Williams",
+    "isCadet": false
+  },
+  {
+    "name": "Charlie Davis",
+    "isCadet": true
+  },
+  {
+    "name": "David Smith",
+    "isCadet": false
+  },
+  {
+    "name": "Eve Brown",
+    "isCadet": true
+  },
+  {
+    "name": "Frank Lee",
+    "isCadet": false
+  },
+  {
+    "name": "Grace Miller",
+    "isCadet": true
+  },
+  {
+    "name": "Henry Wilson",
+    "isCadet": false
+  },
+  {
+    "name": "Ivy Clark",
+    "isCadet": true
+  },
+  {
+    "name": "Jack Turner",
+    "isCadet": false
+  }
+]
